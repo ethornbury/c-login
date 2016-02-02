@@ -1,0 +1,8 @@
+P:\OOP\MyLogin\MyLogin\bin\Debug\MyLogin.exe.config
+P:\OOP\MyLogin\MyLogin\bin\Debug\MyLogin.exe
+P:\OOP\MyLogin\MyLogin\bin\Debug\MyLogin.pdb
+P:\OOP\MyLogin\MyLogin\obj\Debug\MyLogin.Login.resources
+P:\OOP\MyLogin\MyLogin\obj\Debug\MyLogin.Properties.Resources.resources
+P:\OOP\MyLogin\MyLogin\obj\Debug\MyLogin.csproj.GenerateResource.Cache
+P:\OOP\MyLogin\MyLogin\obj\Debug\MyLogin.exe
+P:\OOP\MyLogin\MyLogin\obj\Debug\MyLogin.pdb
