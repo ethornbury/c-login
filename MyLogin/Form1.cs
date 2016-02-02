@@ -12,6 +12,9 @@ namespace MyLogin
 {
     public partial class Login : Form
     {
+        HashCode hc = new HashCode();
+        //instantiate the class
+
         string username = "admin";
         string password = "password";
 
@@ -23,8 +26,10 @@ namespace MyLogin
         private void btnLogin_Click(object sender, EventArgs e)
         {
             string user = txtBxUser.Text;
-            string pass = txtBxPass.Text;
+            string pass = hc.PassHash(txtBxPass.Text);
+            
 
+            // data is hashed and assigned
             if(user == username)
             {
                 if(pass == password)
